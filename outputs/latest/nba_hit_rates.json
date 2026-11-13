@@ -4,7 +4,7 @@
   "week": {
     "label": "2026-11-13",
     "slate_date": "2026-11-13",
-    "generated_at_et": "2026-11-13T20:17:56+00:00"
+    "generated_at_et": "2026-11-13T20:38:44+00:00"
   },
   "method": {
     "window": "last 10 games",
@@ -42,8 +42,8 @@
           "last5_hits": 4,
           "avg_last10": 8.7,
           "margin": 2.2,
-          "odds": -145,
-          "odds_display": "-145",
+          "odds": -140,
+          "odds_display": "-140",
           "sportsbook": "betmgm",
           "minutes_last10": 28.3,
           "games_played": 10,
@@ -60,15 +60,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 9,
+              "detail": "game-log recount 9/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -114,15 +115,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 9,
+              "detail": "game-log recount 9/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -168,15 +170,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -222,15 +225,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 9,
+              "detail": "game-log recount 9/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -260,7 +264,7 @@
           "margin": 1.1,
           "odds": -160,
           "odds_display": "-160",
-          "sportsbook": "bet365",
+          "sportsbook": "draftkings",
           "minutes_last10": 32.9,
           "games_played": 10,
           "projection": 2.29,
@@ -276,15 +280,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 9,
+              "detail": "game-log recount 9/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -330,15 +335,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -384,15 +390,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -420,8 +427,8 @@
           "last5_hits": 4,
           "avg_last10": 5.5,
           "margin": 1.0,
-          "odds": -155,
-          "odds_display": "-155",
+          "odds": -160,
+          "odds_display": "-160",
           "sportsbook": "bet365",
           "minutes_last10": 31.5,
           "games_played": 11,
@@ -438,15 +445,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 9,
+              "detail": "game-log recount 9/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -492,15 +500,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -546,15 +555,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -600,15 +610,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -654,15 +665,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -700,7 +712,7 @@
           "pace_factor": 1.053,
           "minutes_projection": 31.8,
           "minutes_trend": 1.042,
-          "spread": 6.5,
+          "spread": 7.0,
           "back_to_back": false,
           "usage_up": true,
           "score": 9.225,
@@ -708,15 +720,71 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 7,
+              "detail": "game-log recount 7/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
+              "line_price": "Action Network + The Odds API"
+            }
+          }
+        },
+        {
+          "player_id": "4711294",
+          "player_name": "Matas Buzelis",
+          "player_full_name": "Matas Buzelis",
+          "first_name": "MATAS",
+          "last_name": "BUZELIS",
+          "headshot_url": "https://a.espncdn.com/i/headshots/nba/players/full/4711294.png",
+          "team": "CHI",
+          "opponent": "vs ATL",
+          "kickoff": "2026-11-14T01:00:00.000Z",
+          "stat": "assists",
+          "prop_label": "ASSISTS",
+          "line": 1.5,
+          "line_display": "1.5",
+          "side": "over",
+          "hits": 8,
+          "of": 10,
+          "hit_display": "8",
+          "hit_rate": 0.8,
+          "season_hit_rate": 0.8,
+          "last5_hits": 4,
+          "avg_last10": 2.0,
+          "margin": 0.5,
+          "odds": -190,
+          "odds_display": "-190",
+          "sportsbook": "bet365",
+          "minutes_last10": 26.3,
+          "games_played": 10,
+          "projection": 2.16,
+          "matchup_factor": 1.031,
+          "pace_factor": 1.053,
+          "minutes_projection": 25.3,
+          "minutes_trend": 0.996,
+          "spread": 7.0,
+          "back_to_back": true,
+          "usage_up": true,
+          "score": 9.213,
+          "on_graphic": false,
+          "verified": false,
+          "verification": {
+            "stats": {
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
+            },
+            "line": {
+              "status": "unverified",
+              "detail": "no ODDS_API_KEY set"
+            },
+            "sources": {
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -762,15 +830,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -808,7 +877,7 @@
           "pace_factor": 1.053,
           "minutes_projection": 30.8,
           "minutes_trend": 1.061,
-          "spread": 6.5,
+          "spread": 7.0,
           "back_to_back": false,
           "usage_up": true,
           "score": 9.011,
@@ -816,15 +885,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 7,
+              "detail": "game-log recount 7/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -870,15 +940,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -924,15 +995,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -960,8 +1032,8 @@
           "last5_hits": 4,
           "avg_last10": 13.0,
           "margin": 1.5,
-          "odds": -122,
-          "odds_display": "-122",
+          "odds": -125,
+          "odds_display": "-125",
           "sportsbook": "fanduel",
           "minutes_last10": 18.4,
           "games_played": 11,
@@ -978,15 +1050,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 7,
+              "detail": "game-log recount 7/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -1032,15 +1105,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -1068,8 +1142,8 @@
           "last5_hits": 5,
           "avg_last10": 2.0,
           "margin": 0.5,
-          "odds": -105,
-          "odds_display": "-105",
+          "odds": 100,
+          "odds_display": "+100",
           "sportsbook": "bet365",
           "minutes_last10": 23.4,
           "games_played": 11,
@@ -1086,15 +1160,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -1140,15 +1215,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -1194,15 +1270,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 7,
+              "detail": "game-log recount 7/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -1230,8 +1307,8 @@
           "last5_hits": 5,
           "avg_last10": 32.6,
           "margin": 5.1,
-          "odds": -124,
-          "odds_display": "-124",
+          "odds": -129,
+          "odds_display": "-129",
           "sportsbook": "betrivers",
           "minutes_last10": 29.4,
           "games_played": 11,
@@ -1248,15 +1325,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -1302,15 +1380,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 7,
+              "detail": "game-log recount 7/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -1356,15 +1435,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -1410,15 +1490,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 8,
+              "detail": "game-log recount 8/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
@@ -1456,7 +1537,7 @@
           "pace_factor": 1.053,
           "minutes_projection": 26.1,
           "minutes_trend": 1.008,
-          "spread": 6.5,
+          "spread": 7.0,
           "back_to_back": false,
           "usage_up": true,
           "score": 8.521,
@@ -1464,177 +1545,16 @@
           "verified": false,
           "verification": {
             "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
+              "status": "confirmed",
+              "recount_hits": 7,
+              "detail": "game-log recount 7/10 matches"
             },
             "line": {
               "status": "unverified",
               "detail": "no ODDS_API_KEY set"
             },
             "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
-              "line_price": "Action Network + The Odds API"
-            }
-          }
-        },
-        {
-          "player_id": "4873138",
-          "player_name": "Ace Bailey",
-          "player_full_name": "Ace Bailey",
-          "first_name": "ACE",
-          "last_name": "BAILEY",
-          "headshot_url": "https://a.espncdn.com/i/headshots/nba/players/full/4873138.png",
-          "team": "UTAH",
-          "opponent": "@ HOU",
-          "kickoff": "2026-11-14T01:30:00.000Z",
-          "stat": "rebounds",
-          "prop_label": "REBOUNDS",
-          "line": 5.5,
-          "line_display": "5.5",
-          "side": "over",
-          "hits": 8,
-          "of": 10,
-          "hit_display": "8",
-          "hit_rate": 0.8,
-          "season_hit_rate": 0.75,
-          "last5_hits": 3,
-          "avg_last10": 6.8,
-          "margin": 1.3,
-          "odds": 105,
-          "odds_display": "+105",
-          "sportsbook": "fanatics",
-          "minutes_last10": 32.6,
-          "games_played": 12,
-          "projection": 6.22,
-          "matchup_factor": 0.924,
-          "pace_factor": 0.993,
-          "minutes_projection": 29.1,
-          "minutes_trend": 1.045,
-          "spread": 15.5,
-          "back_to_back": true,
-          "usage_up": true,
-          "score": 8.519,
-          "on_graphic": false,
-          "verified": false,
-          "verification": {
-            "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
-            },
-            "line": {
-              "status": "unverified",
-              "detail": "no ODDS_API_KEY set"
-            },
-            "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
-              "line_price": "Action Network + The Odds API"
-            }
-          }
-        },
-        {
-          "player_id": "5041955",
-          "player_name": "Darryn Peterson",
-          "player_full_name": "Darryn Peterson",
-          "first_name": "DARRYN",
-          "last_name": "PETERSON",
-          "headshot_url": "https://a.espncdn.com/i/headshots/nba/players/full/5041955.png",
-          "team": "UTAH",
-          "opponent": "@ HOU",
-          "kickoff": "2026-11-14T01:30:00.000Z",
-          "stat": "assists",
-          "prop_label": "ASSISTS",
-          "line": 3.5,
-          "line_display": "3.5",
-          "side": "over",
-          "hits": 8,
-          "of": 10,
-          "hit_display": "8",
-          "hit_rate": 0.8,
-          "season_hit_rate": 0.667,
-          "last5_hits": 5,
-          "avg_last10": 4.4,
-          "margin": 0.9,
-          "odds": -140,
-          "odds_display": "-140",
-          "sportsbook": "betmgm",
-          "minutes_last10": 31.0,
-          "games_played": 12,
-          "projection": 4.03,
-          "matchup_factor": 0.885,
-          "pace_factor": 0.993,
-          "minutes_projection": 28.7,
-          "minutes_trend": 1.029,
-          "spread": 15.5,
-          "back_to_back": true,
-          "usage_up": true,
-          "score": 8.431,
-          "on_graphic": false,
-          "verified": false,
-          "verification": {
-            "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
-            },
-            "line": {
-              "status": "unverified",
-              "detail": "no ODDS_API_KEY set"
-            },
-            "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
-              "line_price": "Action Network + The Odds API"
-            }
-          }
-        },
-        {
-          "player_id": "5254165",
-          "player_name": "Keaton Wagler",
-          "player_full_name": "Keaton Wagler",
-          "first_name": "KEATON",
-          "last_name": "WAGLER",
-          "headshot_url": "https://a.espncdn.com/i/headshots/nba/players/full/5254165.png",
-          "team": "LAC",
-          "opponent": "vs OKC",
-          "kickoff": "2026-11-14T03:30:00.000Z",
-          "stat": "assists",
-          "prop_label": "ASSISTS",
-          "line": 2.5,
-          "line_display": "2.5",
-          "side": "over",
-          "hits": 8,
-          "of": 10,
-          "hit_display": "8",
-          "hit_rate": 0.8,
-          "season_hit_rate": 0.8,
-          "last5_hits": 4,
-          "avg_last10": 3.4,
-          "margin": 0.9,
-          "odds": -166,
-          "odds_display": "-166",
-          "sportsbook": "fanduel",
-          "minutes_last10": 23.2,
-          "games_played": 10,
-          "projection": 3.05,
-          "matchup_factor": 0.901,
-          "pace_factor": 0.995,
-          "minutes_projection": 21.1,
-          "minutes_trend": 0.862,
-          "spread": 7.5,
-          "back_to_back": false,
-          "usage_up": false,
-          "score": 8.39,
-          "on_graphic": false,
-          "verified": false,
-          "verification": {
-            "stats": {
-              "status": "unverified",
-              "detail": "NBA.com unreachable"
-            },
-            "line": {
-              "status": "unverified",
-              "detail": "no ODDS_API_KEY set"
-            },
-            "sources": {
-              "hit_count": "ESPN box scores + NBA.com box scores",
+              "hit_count": "ESPN box scores + ESPN player game logs",
               "line_price": "Action Network + The Odds API"
             }
           }
